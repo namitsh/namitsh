@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @namitsh
-- 👀 I’m interested in Backend Development
+- 👀 I’m interested in C++, Python, Data Structures and Algorithm, Backend Development  
 - 🌱 I’m currently learning NodeJS, Docker, Kubernetes
-- 💞️ I’m looking to collaborate on NodeJS
+- 💞️ I’m looking to collaborate on NodeJS, Django
 - 📫 How to reach me https://www.linkedin.com/in/namitsharda/
 
 <!---
